@@ -1,0 +1,4 @@
+﻿  snake2.cpp
+D:\desktop\snake2\snake2.cpp(290,16): warning C4018: “>”: 有符号/无符号不匹配
+D:\desktop\snake2\snake2.cpp(296,16): warning C4018: “>”: 有符号/无符号不匹配
+  snake2.vcxproj -> D:\desktop\snake2\Debug\snake2.exe
