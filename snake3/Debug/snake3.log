@@ -1,0 +1,5 @@
+﻿  snake3.cpp
+D:\desktop\snake3\snake3.cpp(436,37): warning C4018: “>”: 有符号/无符号不匹配
+D:\desktop\snake3\snake3.cpp(466,38): warning C4018: “>”: 有符号/无符号不匹配
+D:\desktop\snake3\snake3.cpp(516): warning C4717: “main”: 如递归所有控件路径，函数将导致运行时堆栈溢出
+  snake3.vcxproj -> D:\desktop\snake3\Debug\snake3.exe
